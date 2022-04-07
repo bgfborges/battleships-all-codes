@@ -18,3 +18,13 @@ In this Repository for the the ReactJS, we will practice the following topics:
     <li>Routes</li>
     <li>CSS</li>
 </ol>
+
+## Steps to Develop the Project
+
+<ol>
+    <li>Init the project with Yarn</li>
+    <li>Install React and React-Dom</li>
+    <li>Install and Setup Babel as Development Dependency</li>
+    <li>Install and Setup Webpack as Development Dependency</li>
+    <li>Create the React Structure to Visualize the Project</li>
+</ol>

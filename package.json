@@ -5,6 +5,16 @@
   "repository": "git@github.com:ikoba218/love-naval-battle-front-react.git",
   "license": "MIT",
   "dependencies": {
-    "react": "^18.0.0"
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11"
   }
 }
