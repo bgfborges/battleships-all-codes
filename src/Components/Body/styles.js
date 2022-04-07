@@ -91,7 +91,7 @@ export const BodyContent = styled.div`
 
 `;
 
-export const BattleTable = styled.div`
+export const BattleTable = styled.ul`
     width: 100%;
     margin-top: 10px;
     display: flex;
