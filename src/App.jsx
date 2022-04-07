@@ -1,3 +1,11 @@
+import { Body } from "./Components/Body";
+import { Header } from "./Components/Header";
+
 export function App(){
-    return <h1>Love Naval Battle</h1>
+    return(
+        <>
+            <Header></Header>
+            <Body></Body>
+        </>
+    );
 }

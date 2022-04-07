@@ -27,4 +27,10 @@ In this Repository for the the ReactJS, we will practice the following topics:
     <li>Install and Setup Babel as Development Dependency</li>
     <li>Install and Setup Webpack as Development Dependency</li>
     <li>Create the React Structure to Visualize the Project</li>
+    <li>Create the Source Map to Visualize the code on Webpack</li>
+    <li>Install html-webpack-plugin to refer to the js main file</li>
+    <li>Setup Running on Development or Production Mode</li>
+    <li>Setup CSS - Style-Loader, Css-Loader</li>
+    <li>Install styled-components</li>
+    <li>Create Global CSS Style in standard CSS only to demonstrate</li>
 </ol>
