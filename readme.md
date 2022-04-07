@@ -16,5 +16,5 @@ In this Repository for the the ReactJS, we will practice the following topics:
     <li>Hooks</li>
     <li>Contexts</li>
     <li>Routes</li>
-    <li>CSS<li>
+    <li>CSS</li>
 </ol>
