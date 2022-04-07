@@ -38,7 +38,7 @@ In this Repository for the the ReactJS, we will practice the following topics:
     <li>Create the Battleships Squares and Append Dynamically with the keys - A1, A2...</li>
 </ol>
 
-<img src="https://lh3.google.com/u/1/d/15i2rrcUwjfF3jtXrQj-XGLLWLNiKlLc0=w1920-h986-iv1" width="100%" alt="First Screen Demonstration" />
+[Screen-Shot-2022-04-07-at-13-01-40.png](https://postimg.cc/bdp5qSjv)
 
 Now, with the HTML, CSS and JS Static Structure, we need to start the dynamic structure for the ships and it's location.
 
