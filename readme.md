@@ -84,6 +84,10 @@ Reformulate the Dashboard Game
 
 <img src="https://i.postimg.cc/Gmp9GpmH/Screen-Shot-2022-04-08-at-14-48-54.png" width="100%" alt="Second Screen Demonstration" />
 
+## Time to Change - Refactorating the code to TypeScript
+
+On our project goal, we desired to develop the code with JavaScript for technical studying, and the, studying for learning, practice how to refactory a JavaScript code to TypeScript code and have all this benefities.
+
 
 ## Learning Method - The Great Leap (Rocketseat)
 
