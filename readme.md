@@ -73,3 +73,5 @@ Funcionalities:
     <li>Function to decide if vertical or horizontal based on "r" attribude.</li>
     <li>Function to decide if the ship's part is top of ship or bottom - and round it.</li>
 </ol>
+
+<img src="https://i.postimg.cc/3rmqQ2cK/Screen-Shot-2022-04-08-at-11-27-21.png" width="100%" alt="Second Screen Demonstration" />
