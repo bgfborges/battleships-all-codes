@@ -74,4 +74,35 @@ Funcionalities:
     <li>Function to decide if the ship's part is top of ship or bottom - and round it.</li>
 </ol>
 
-<img src="https://i.postimg.cc/3rmqQ2cK/Screen-Shot-2022-04-08-at-11-27-21.png" width="100%" alt="Second Screen Demonstration" />
+Menu:
+
+<ol>
+    <li>Create the Menu Structure to Start the others pages</li>
+</ol>
+
+Reformulate the Dashboard Game
+
+<img src="https://i.postimg.cc/pryKsB2n/Screen-Shot-2022-04-08-at-11-26-49.png" width="100%" alt="First Screen Demonstration" />
+
+
+## Learning Method - The Great Leap (Rocketseat)
+
+This project has as base the Rocketseat Learning Method, for me to practice the concepts from this project. On this, The Great Leap is the main base of learning.  
+
+<ol>
+    <li>Focus</li>
+    <li>Practice</li>
+    <li>Group</li>
+</ol>
+
+### Focus
+
+With the big amount of fields on the programming world, to have focus at some sides is the main important thing. On this way, with our goal of practicing ReactJS and NodeJS, we created the two repositories: the ReactJS with the Front-end of our App, and the NodeJS, with our Back-end repository.
+
+### Practice
+
+The practice step was to apply all the knowledge on the concepts from the Rocketseat Ignore 2021 to the application, without the help of external clones, but with all the help of each concept choosen to solve the problems.
+
+### Group
+
+The Rocketseat Discord Group is the place where I used to share my project, receive feedbacks, as well as external contacts outside the programming world - to be aware of how the final users see the solutions on the project.

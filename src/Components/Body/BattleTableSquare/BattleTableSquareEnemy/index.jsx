@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { BattleTableSquareItem, BattleTableSquareItemTarget, BattleTableSquareItemPosition, ShipContainer, ShipFront  } from "../styles";
+import { BattleTableSquareItem, BattleTableSquareItemTarget, BattleTableSquareItemPosition, ShipContainer, ShipPeace  } from "../styles";
 
 export function BattleTableSquareEnemy(){
 
@@ -81,7 +81,7 @@ export function BattleTableSquareEnemy(){
                     { 
                     getShipPeace(key, num) ? 
                     <ShipContainer key={'s-' + position(key, num) }>
-                        <ShipFront r={rotation(key, num)} kind={ isWhatPeace(key, num) } />
+                        <ShipPeace r={rotation(key, num)} kind={ isWhatPeace(key, num) } />
                     </ShipContainer> : 
                     'x'
                     }

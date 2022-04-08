@@ -30,7 +30,7 @@ export const ShipContainer = styled.div`
     padding: 0.5px;
 `;
 
-export const ShipFront = styled.span.attrs(props => ({
+export const ShipPeace = styled.span.attrs(props => ({
     kind: props.kind,
     r: props.r
   }))`
