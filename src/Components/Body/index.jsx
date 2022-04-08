@@ -1,9 +1,11 @@
 import ProfileOneImg from '../../assets/profile-1.png';
 import ProfileTwoImg from '../../assets/profile-2.jpg';
 import { BodyContainer, SideProfileContainer, ProfilePhoto, BodyContent, BattleTable, Credits } from './styles';
-import { BattleTableSquare } from './BattleTableSquares/';
+import { BattleTableSquareEnemy } from './BattleTableSquare/BattleTableSquareEnemy';
+import { BattleTableSquareMine } from './BattleTableSquare/BattleTableSquareMine';
 
 export function Body(){
+
     return(
         <BodyContainer>
             <SideProfileContainer>
@@ -24,13 +26,12 @@ export function Body(){
                 </section>
 
                 <BattleTable>
-                    <div>
-                        <BattleTableSquare />
-                    </div>
-                    <div>
-                        <BattleTableSquare />
-                    </div>
-
+                    <ul>
+                        <BattleTableSquareMine />
+                    </ul>
+                    <ul>
+                        <BattleTableSquareEnemy />
+                    </ul>
                 </BattleTable>
                 <Credits>Desenvolvido por <strong>Gabriel Borges</strong>.</Credits>
             </BodyContent>

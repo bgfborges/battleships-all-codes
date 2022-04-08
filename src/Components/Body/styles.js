@@ -91,7 +91,7 @@ export const BodyContent = styled.div`
 
 `;
 
-export const BattleTable = styled.ul`
+export const BattleTable = styled.div`
     width: 100%;
     margin-top: 10px;
     display: flex;
@@ -99,13 +99,13 @@ export const BattleTable = styled.ul`
     align-itens: center;
     --TableWidth: 32vw;
 
-    div:nth-child(2){
+    ul:nth-child(2){
         li:hover{
             background-color: rgba(255, 150, 150, 0.65);
         }
         
-        li:hover > span{
-            display: block;
+        li:hover > div{
+            visibility: visible;
         }
 
         li {
@@ -113,7 +113,13 @@ export const BattleTable = styled.ul`
         }
     }
 
-    > div {
+    ul:nth-child(1){
+        div {
+            visibility: hidden;
+        }
+    }
+
+    ul {
         width: var(--TableWidth);
         height: var(--TableWidth);
         background: rgba(255, 150, 150, 0.59);
@@ -129,11 +135,6 @@ export const BattleTable = styled.ul`
             display: flex;
             justify-content: center;
             align-items: center;
-
-            span {
-                color: rgba(255, 150, 150, 0.99);
-                display: none;
-            }
         }
         
         li:nth-child(10n){
