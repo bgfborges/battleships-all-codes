@@ -33,6 +33,7 @@ ADVANCED FUNDAMENTALS
     <li>TypeScript</li>
     <li>NextJS</li>
     <li>Payment Gateway - Stripe</li>
+    <li>Deploy to Production</li>
 </ol>
 
 ## STRUCTURAL FUNDAMENTALS
@@ -99,15 +100,15 @@ Reformulate the Dashboard Game
 
 ## ADVANCED FUNDAMENTALS
 
-### Time to Change - Refactorating the code to TypeScript
+### Time to Change - Refactorating the code to Next and TypeScript
 
-On our project goal, we desired to develop the code with JavaScript for technical studying, and the, studying for learning, practice how to refactory a JavaScript code to TypeScript code and have all this benefities. And start the others advanced techniques.
+On our project goal, we desired to develop the code with JavaScript for technical studying, and the, studying for learning, practice how to refactory a sample JavaScript code to Next and TypeScript code and have all this benefities. And start the others advanced techniques.
 
 STEPS DO DEVELOP THE SOFTWARE
 
 <ol>
-    <li>Refactory to TypeScript</li>
-    <li>Start with NextJS</li>
+    <li>Refactory to Next:</li>
+    <li>Create new folder - next-love-naval-battle</li>
 </ol>
 
 # Learning Method - The Great Leap (Rocketseat)
