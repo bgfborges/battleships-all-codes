@@ -82,7 +82,7 @@ Menu:
 
 Reformulate the Dashboard Game
 
-<img src="https://i.postimg.cc/Gmp9GpmH/Screen-Shot-2022-04-08-at-14-48-54.png" width="100%" alt="First Screen Demonstration" />
+<img src="https://i.postimg.cc/Gmp9GpmH/Screen-Shot-2022-04-08-at-14-48-54.png" width="100%" alt="Second Screen Demonstration" />
 
 
 ## Learning Method - The Great Leap (Rocketseat)
