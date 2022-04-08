@@ -15,6 +15,8 @@ Anyway, all the concepts used here was taken from the Rocketseat course explanin
 
 In this Repository for the the ReactJS, we will practice the following topics:
 
+STRUCTURAL FUNDAMENTALS:
+
 <ol>
     <li>Functional Components</li>
     <li>Hooks</li>
@@ -23,7 +25,17 @@ In this Repository for the the ReactJS, we will practice the following topics:
     <li>CSS</li>
 </ol>
 
-## Steps to Develop the Project
+ADVANCED FUNDAMENTALS
+
+<ol>
+    <li>Work with APIs</li>
+    <li>Serveless</li>
+    <li>TypeScript</li>
+    <li>NextJS</li>
+    <li>Payment Gateway - Stripe</li>
+</ol>
+
+## STRUCTURAL FUNDAMENTALS
 
 <ol>
     <li>Init the project with Yarn</li>
@@ -48,7 +60,7 @@ Now, with the HTML, CSS and JS Static Structure, we need to start the dynamic st
 
 And, on this step, firstly, we will practice the following concepts:
 
-## Imutability Concept - Hook
+### Imutability Concept - Hook
 
 We will use the concept of immutability in the React to firstly set the clicked squares in target on the adversary table from the Battleships. This is a present concept in the functional programming, and offer a good performance to the app.
 
@@ -84,12 +96,21 @@ Reformulate the Dashboard Game
 
 <img src="https://i.postimg.cc/Gmp9GpmH/Screen-Shot-2022-04-08-at-14-48-54.png" width="100%" alt="Second Screen Demonstration" />
 
-## Time to Change - Refactorating the code to TypeScript
 
-On our project goal, we desired to develop the code with JavaScript for technical studying, and the, studying for learning, practice how to refactory a JavaScript code to TypeScript code and have all this benefities.
+## ADVANCED FUNDAMENTALS
 
+### Time to Change - Refactorating the code to TypeScript
 
-## Learning Method - The Great Leap (Rocketseat)
+On our project goal, we desired to develop the code with JavaScript for technical studying, and the, studying for learning, practice how to refactory a JavaScript code to TypeScript code and have all this benefities. And start the others advanced techniques.
+
+STEPS DO DEVELOP THE SOFTWARE
+
+<ol>
+    <li>Refactory to TypeScript</li>
+    <li>Start with NextJS</li>
+</ol>
+
+# Learning Method - The Great Leap (Rocketseat)
 
 This project has as base the Rocketseat Learning Method, for me to practice the concepts from this project. On this, The Great Leap is the main base of learning.  
 
