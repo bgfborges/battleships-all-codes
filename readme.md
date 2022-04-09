@@ -1,6 +1,13 @@
 # Love Naval Battle - FRONTEND REACT
 
-A project where you with your beloved girl (or guy) can decide the future choirs or boring activities with fun and love. This project goals to be only a portfolio as NodeJS and React developer.  
+A project where you with your beloved girl (or guy) can decide the future choirs or boring activities with fun and love. This project goals to be only a portfolio as NodeJS and React developer.
+
+<ol>
+    <li>Love Naval Battle (Game)</li>
+    <li>Login just front-end with Google OAuth</li>
+    <li>Subscription Donation with Stripe</li>
+    <li>Paid SPOTTED - for Those who make a donation: after the first donation, you can send private lovely stories, texts and content to be published.</li>
+</ol>
 
 This software development was made without the help of any other software - with the goal of understanding the concepts and being able to know how to solve the problems with creativity, for this study purpose there wasn't seen any kind of material of battleships clones.  
 
@@ -32,6 +39,8 @@ ADVANCED FUNDAMENTALS
     <li>Serveless</li>
     <li>TypeScript</li>
     <li>NextJS</li>
+    <li>FaunaDB - for the Serveless Functionalities</li>
+    <li>Prismic CMS - for the posts</li>
     <li>Payment Gateway - Stripe</li>
     <li>Deploy to Production</li>
 </ol>
@@ -107,8 +116,20 @@ On our project goal, we desired to develop the code with JavaScript for technica
 STEPS DO DEVELOP THE SOFTWARE
 
 <ol>
+    <li>Refactory to Next</li>
+</ol>
+
+#### NEXT & TYPESCRIPT
+
+Changing the SPA with traditional React to the SSR (Server Side Rendering)
+
+<ol>
     <li>Refactory to Next:</li>
     <li>Create new folder - next-love-naval-battle</li>
+    <li>Create new NextJS App</li>
+    <li>Clean the Unnecessary from the New App</li>
+    <li>Install Typescript</li>
+    <li>Install SCSS - to learn how to work with it too, istead of just styled-components (and apply the global styles with it)</li>
 </ol>
 
 # Learning Method - The Great Leap (Rocketseat)
