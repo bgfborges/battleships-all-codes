@@ -1,12 +1,13 @@
 import styled from 'styled-components'
 
-export const SubscribeButtonContainer = styled.a`
+export const SubscribeButtonContainer = styled.button`
 
     text-decoration: none;
         color: white;
         background: var(--red);
         padding: 30px 50px;
         font-size: 20px;
+        border: 0;
         border-radius: 50px;
         transition: filter 0.2s;
         font-weight: bold;

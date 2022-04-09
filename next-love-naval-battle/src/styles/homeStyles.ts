@@ -57,8 +57,8 @@ export const InfoHomeContainer = styled.div`
         margin-top:10px;
     }
 
-    a {
-        & + a {
+    button {
+        & + button {
             margin-left: 20px;
         }
     }
