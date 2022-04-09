@@ -58,7 +58,7 @@ export const Container = styled.header`
                 &.active::after{
                     content: '';
                     height: 3px;
-                    background: var(--blue);
+                    background: var(--red);
                     width: 90%;
                     position: absolute;
                     bottom: 1px;
@@ -89,7 +89,7 @@ export const MenuSide = styled.div`
 
         svg:hover {
             transition: 200ms background;
-            background: var(--blue);
+            background: var(--red);
             border-radius: 6px;
         }
     }
@@ -126,7 +126,7 @@ export const MenuContent = styled.div<MenuContent>`
         li {
             width: 100%;
             padding: 10px;
-            border: 1px solid var(--blue);
+            border: 1px solid var(--red);
             margin: 3px 0;
             text-align: center;
             cursor: pointer;
@@ -138,7 +138,7 @@ export const MenuContent = styled.div<MenuContent>`
 
             &:hover {
                 transition: 50ms background;
-                background: var(--blue);
+                background: var(--red);
             }
         }
     }

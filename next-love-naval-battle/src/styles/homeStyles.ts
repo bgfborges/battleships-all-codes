@@ -13,13 +13,6 @@ export const Container = styled.div<ContainerProps>`
     background-position: left;
 `;
 
-export const Credits = styled.section`
-    width: 100%;
-    height: 40px;
-    text-align: center;
-    justify-self: center;
-`;
-
 export const Content = styled.div`
     width: 100vw;
     height: calc(100% - 40px);
@@ -42,6 +35,13 @@ export const InfoHomeContainer = styled.div`
         margin-top: 20px;
     }
 
+    h2 {
+        svg {
+            margin-bottom: -6px;
+            margin-right: 5px;
+        }
+    }
+
     h3 {
         svg {
             margin-right: 10px;
@@ -58,26 +58,13 @@ export const InfoHomeContainer = styled.div`
     }
 
     a {
-        text-decoration: none;
-        color: white;
-        background: var(--blue);
-        padding: 30px 50px;
-        font-size: 20px;
-        border-radius: 50px;
-
         & + a {
             margin-left: 20px;
-            background: var(--dark);
-
-            svg {
-                margin-bottom: -3px;
-                margin-right: 15px;
-            }
-        } 
+        }
     }
 
     span {
-        color: var(--blue);
+        color: var(--red);
         font-weight: 800;
     }
 `;

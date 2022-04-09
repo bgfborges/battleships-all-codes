@@ -31,10 +31,11 @@ export const HeaderChat = styled.div`
     width: 100%;
     padding: 20px;
     color: white;
-    background: var(--blue);
+    background: var(--red);
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-weight: bold;
     svg {
         color: var(--back);
         cursor: pointer;
@@ -86,7 +87,7 @@ export const BottomChat = styled.div`
     button {
         padding: 15px;
         border: none;
-        background: var(--blue);
+        background: var(--red);
     }
 `;
 
