@@ -130,7 +130,19 @@ Changing the SPA with traditional React to the SSR (Server Side Rendering)
     <li>Clean the Unnecessary from the New App</li>
     <li>Install Typescript</li>
     <li>Install SCSS - to learn how to work with it too, istead of just styled-components (and apply the global styles with it)</li>
+    <li>Change the code from JS to TS.</li>
 </ol>
+
+#### KEEP THE LAYOUT 
+
+Keep the new pages from the layout:
+
+<ol>
+    <li>Create the Global Header</li>
+    <li>Create the Homepage</li>
+</ol>
+
+<img src="https://i.postimg.cc/rmKHW47f/Screen-Shot-2022-04-09-at-11-19-04.png" width="100%" alt="Second Screen Demonstration" />
 
 # Learning Method - The Great Leap (Rocketseat)
 
