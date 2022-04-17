@@ -8,8 +8,61 @@ export const Container = styled.header`
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 0 20px;
+    padding: 0 100px;
     border-bottom: 1px solid var(--dark);
+
+    > div:nth-child(2){
+
+        svg {
+            float: left;
+        }
+
+        button {
+            width: 200px;
+            padding: 10px;
+            margin: 0;
+            text-align: center;
+            border: 0;
+            background: var(--red);
+            font-weight: bold;
+            color: white;
+            border-radius: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+
+            img {
+                width: 40px;
+                height: 40px;
+                float: left;
+                margin-right: 10px;
+                object-fit: cover;
+                border-radius: 50%;
+            }
+
+            svg {
+                width: 20px;
+                height: 20px;
+                color: var(--dark);
+
+                &:hover {
+                    filter: brightness(0.8);
+                }
+            }
+
+            span {
+                svg {
+                    width: 30px;
+                    height: 30px;
+                    padding: 5px;
+                    margin-right: 10px;
+                    background: white;
+                    border-radius: 50%;
+                    color: white;
+                }
+            }
+        }
+    }
 
     > div:nth-child(1) {
         width: 100%;
